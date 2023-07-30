@@ -11,6 +11,7 @@ import {
 } from "lucide-react";
 import About from "./components/about";
 import { useState } from "react";
+import Image from "next/image";
 
 type pages = "about" | "contact" | "graduation";
 
@@ -37,10 +38,12 @@ export default function Home() {
           />
         </a>
       </aside>
-      <main className="flex flex-1 flex-row bg-zinc-800 h-5/6">
+      <main className="grid grid-cols-5 gap-4 bg-zinc-800 h-5/6">
         <div className="relative">
-          <img
+          <Image
+            alt=""
             src="https://pm1.aminoapps.com/6369/85c1b0231ad9ae26f9c768b2a3a79d58286fc0ef_hq.jpg"
+            layout="fill"
             className="object-cover h-full w-96"
           />
           <div className="absolute  bottom-1/4 left-0 right-0 px-4 py-2 bg-zinc-950 opacity-75">
@@ -54,7 +57,7 @@ export default function Home() {
             </div>
           </div>
         </div>
-        <div className="p-5 overflow-auto">
+        <div className="col-span-4 p-5 overflow-auto">
           <About />
         </div>
       </main>

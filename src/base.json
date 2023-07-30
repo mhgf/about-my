@@ -1,0 +1,297 @@
+{
+  "positions": [
+    {
+      "CompanyName": "Qintess",
+      "Title": "Software Developer",
+      "Description": "",
+      "Location": "",
+      "StartedOn": "Aug 2022",
+      "FinishedOn": ""
+    },
+    {
+      "CompanyName": "Fontes Promotora",
+      "Title": "Consulting Software Engineer",
+      "Description": "",
+      "Location": "Florianópolis, Santa Catarina, Brazil",
+      "StartedOn": "May 2022",
+      "FinishedOn": "Jul 2023"
+    },
+    {
+      "CompanyName": "Ludos Pro",
+      "Title": "Full-stack Developer",
+      "Description": "",
+      "Location": "",
+      "StartedOn": "Jul 2021",
+      "FinishedOn": "May 2022"
+    },
+    {
+      "CompanyName": "Informa Solutions",
+      "Title": "Software Engineer",
+      "Description": "",
+      "Location": "São José do Rio Preto, São Paulo",
+      "StartedOn": "Oct 2018",
+      "FinishedOn": "Jul 2021"
+    },
+    {
+      "CompanyName": "Stefanini",
+      "Title": "Junior Software Engineer",
+      "Description": "",
+      "Location": "São José do Rio Preto",
+      "StartedOn": "Jul 2018",
+      "FinishedOn": "Oct 2018"
+    },
+    {
+      "CompanyName": "Stefanini",
+      "Title": "Software Developer",
+      "Description": "",
+      "Location": "São José do Rio Preto e Região, Brasil",
+      "StartedOn": "May 2017",
+      "FinishedOn": "Jul 2018"
+    }
+  ],
+  "certifications": [
+    {
+      "Name": "Exam 480: Programming in HTML5 with JavaScript and CSS3",
+      "Url": "https://www.youracclaim.com/badges/7474fe43-2727-4791-9f7f-70a675033776/linked_in_profile",
+      "Authority": "Microsoft",
+      "StartedOn": "May 2019",
+      "FinishedOn": "",
+      "LicenseNumber": ""
+    },
+    {
+      "Name": "MCSA: Web Applications - Certified 2019",
+      "Url": "https://www.youracclaim.com/badges/337db4ed-70bf-4f15-b27a-868d3b132d2a/linked_in_profile",
+      "Authority": "Microsoft",
+      "StartedOn": "Jul 2019",
+      "FinishedOn": "",
+      "LicenseNumber": ""
+    },
+    {
+      "Name": "MCSD: App Builder — Certified 2019",
+      "Url": "https://www.youracclaim.com/badges/32c6cce8-759c-43bf-9083-79ed3205b58b/linked_in_profile",
+      "Authority": "Microsoft",
+      "StartedOn": "Aug 2019",
+      "FinishedOn": "",
+      "LicenseNumber": ""
+    },
+    {
+      "Name": "Avançando com C++: entenda melhor a linguagem",
+      "Url": "https://cursos.alura.com.br/certificate/3e3382b8-cceb-40ce-87bc-a67117937755",
+      "Authority": "Alura",
+      "StartedOn": "Jul 2022",
+      "FinishedOn": "",
+      "LicenseNumber": "3e3382b8-cceb-40ce-87bc-a67117937755"
+    },
+    {
+      "Name": "C# Reflection parte 1: metadados do seu código .NET",
+      "Url": "https://cursos.alura.com.br/certificate/701082ce-10c2-4481-9aa3-7e2306c87983",
+      "Authority": "Alura",
+      "StartedOn": "Sep 2022",
+      "FinishedOn": "",
+      "LicenseNumber": "701082ce-10c2-4481-9aa3-7e2306c87983"
+    },
+    {
+      "Name": "C# Reflection parte 2: implementando injeção de dependência do zero",
+      "Url": "https://cursos.alura.com.br/certificate/e26bc1e5-6737-4656-a651-5ef42991357f",
+      "Authority": "Alura",
+      "StartedOn": "Sep 2022",
+      "FinishedOn": "",
+      "LicenseNumber": "e26bc1e5-6737-4656-a651-5ef42991357f"
+    },
+    {
+      "Name": "C#: Paralelismo no mundo real",
+      "Url": "https://cursos.alura.com.br/certificate/b0bb9547-8700-4fd1-9931-9cc07d8f5408",
+      "Authority": "Alura",
+      "StartedOn": "Sep 2022",
+      "FinishedOn": "",
+      "LicenseNumber": "b0bb9547-8700-4fd1-9931-9cc07d8f5408"
+    },
+    {
+      "Name": "Dart: sintaxe, coleções e dinamismo",
+      "Url": "https://cursos.alura.com.br/certificate/30d3d2e0-9bb1-4c60-8375-4b4d8526d3a9",
+      "Authority": "Alura",
+      "StartedOn": "Nov 2022",
+      "FinishedOn": "",
+      "LicenseNumber": "30d3d2e0-9bb1-4c60-8375-4b4d8526d3a9"
+    },
+    {
+      "Name": "Design Patterns C# II: boas práticas de programação",
+      "Url": "https://cursos.alura.com.br/certificate/f175e85e-0bcc-43b9-9a89-50ddad4ec809",
+      "Authority": "Alura",
+      "StartedOn": "Sep 2022",
+      "FinishedOn": "",
+      "LicenseNumber": "f175e85e-0bcc-43b9-9a89-50ddad4ec809"
+    },
+    {
+      "Name": "Docker: criando e gerenciando containers",
+      "Url": "https://cursos.alura.com.br/certificate/2f6ca0ec-26f1-4aa0-a18f-70b0311221e1",
+      "Authority": "Alura",
+      "StartedOn": "May 2022",
+      "FinishedOn": "",
+      "LicenseNumber": "2f6ca0ec-26f1-4aa0-a18f-70b0311221e1"
+    },
+    {
+      "Name": "Design Patterns C# I: boas práticas de programação",
+      "Url": "https://cursos.alura.com.br/certificate/33fd14dd-910f-48bc-a9dd-61db26bf01ef",
+      "Authority": "Alura",
+      "StartedOn": "Sep 2022",
+      "FinishedOn": "",
+      "LicenseNumber": "33fd14dd-910f-48bc-a9dd-61db26bf01ef"
+    },
+    {
+      "Name": "Flutter: aplicando persistência de dados",
+      "Url": "https://cursos.alura.com.br/certificate/d1ca1982-058e-4f4f-bf30-92f35c6e9969",
+      "Authority": "Alura",
+      "StartedOn": "Nov 2022",
+      "FinishedOn": "",
+      "LicenseNumber": "d1ca1982-058e-4f4f-bf30-92f35c6e9969"
+    },
+    {
+      "Name": "JavaScript: Arrays",
+      "Url": "https://cursos.alura.com.br/certificate/ecbf5b8a-4109-454b-9f7b-48c6df718f35",
+      "Authority": "Alura",
+      "StartedOn": "May 2022",
+      "FinishedOn": "",
+      "LicenseNumber": "ecbf5b8a-4109-454b-9f7b-48c6df718f35"
+    },
+    {
+      "Name": "JavaScript: objetos",
+      "Url": "https://cursos.alura.com.br/certificate/9a8d41ce-0c71-4a46-9786-a0af7aa183f5",
+      "Authority": "Alura",
+      "StartedOn": "May 2022",
+      "FinishedOn": "",
+      "LicenseNumber": "9a8d41ce-0c71-4a46-9786-a0af7aa183f5"
+    },
+    {
+      "Name": "JavaScript: tipos, variáveis e funções",
+      "Url": "https://cursos.alura.com.br/certificate/91d7aa78-17f2-4c44-9d86-4b5d12175159",
+      "Authority": "Alura",
+      "StartedOn": "May 2022",
+      "FinishedOn": "",
+      "LicenseNumber": "91d7aa78-17f2-4c44-9d86-4b5d12175159"
+    },
+    {
+      "Name": "Microsserviços: padrões de projeto",
+      "Url": "https://cursos.alura.com.br/certificate/7db117f4-8915-4cdd-aebd-93d8d52b197f",
+      "Authority": "Alura",
+      "StartedOn": "Nov 2022",
+      "FinishedOn": "",
+      "LicenseNumber": "7db117f4-8915-4cdd-aebd-93d8d52b197f"
+    },
+    {
+      "Name": "SOLID com C#: princípios da programação orientada a objetos",
+      "Url": "https://cursos.alura.com.br/certificate/7793771b-6da3-4db0-9434-ca384e3dfbe1",
+      "Authority": "Alura",
+      "StartedOn": "Sep 2022",
+      "FinishedOn": "",
+      "LicenseNumber": "7793771b-6da3-4db0-9434-ca384e3dfbe1"
+    },
+    {
+      "Name": "Dart: lidando com Exceptions e Null Safety",
+      "Url": "https://cursos.alura.com.br/certificate/f8706088-f010-42f3-bee2-471b04f2d883",
+      "Authority": "Alura",
+      "StartedOn": "Nov 2022",
+      "FinishedOn": "",
+      "LicenseNumber": "f8706088-f010-42f3-bee2-471b04f2d883"
+    },
+    {
+      "Name": "Dart: entendendo a Orientação a Objetos",
+      "Url": "https://cursos.alura.com.br/certificate/6740aa96-055a-4671-8ba7-c6e8c9ab65a5",
+      "Authority": "Alura",
+      "StartedOn": "Nov 2022",
+      "FinishedOn": "",
+      "LicenseNumber": "6740aa96-055a-4671-8ba7-c6e8c9ab65a5"
+    },
+    {
+      "Name": "Dart: criando e manipulando variáveis e listas",
+      "Url": "https://cursos.alura.com.br/certificate/128575c6-7460-444c-a952-35c3df05cb2e",
+      "Authority": "Alura",
+      "StartedOn": "Nov 2022",
+      "FinishedOn": "",
+      "LicenseNumber": "128575c6-7460-444c-a952-35c3df05cb2e"
+    },
+    {
+      "Name": "C++: Conhecendo a linguagem e a STL",
+      "Url": "https://cursos.alura.com.br/certificate/5ffab6d4-06cf-48ba-b814-c6eab395fcab",
+      "Authority": "Alura",
+      "StartedOn": "Jul 2022",
+      "FinishedOn": "",
+      "LicenseNumber": "5ffab6d4-06cf-48ba-b814-c6eab395fcab"
+    },
+    {
+      "Name": "Flutter: Controller, navegação e estados",
+      "Url": "https://cursos.alura.com.br/certificate/0c76bb6f-1325-4829-946f-762d3b5fb6ec",
+      "Authority": "Alura",
+      "StartedOn": "Nov 2022",
+      "FinishedOn": "",
+      "LicenseNumber": "0c76bb6f-1325-4829-946f-762d3b5fb6ec"
+    },
+    {
+      "Name": "Flutter: Widgets, Stateless, Stateful, Imagens e Animações",
+      "Url": "https://cursos.alura.com.br/certificate/a0ad7bd6-b5fe-4dea-aa15-a08f9dae902b",
+      "Authority": "Alura",
+      "StartedOn": "Nov 2022",
+      "FinishedOn": "",
+      "LicenseNumber": "a0ad7bd6-b5fe-4dea-aa15-a08f9dae902b"
+    },
+    {
+      "Name": "MEAN Stack: criando aplicações completas com Javascript",
+      "Url": "https://cursos.alura.com.br/certificate/d58c79ab-bec2-45b3-86c8-4f330b2cc9e0",
+      "Authority": "Alura",
+      "StartedOn": "Sep 2017",
+      "FinishedOn": "",
+      "LicenseNumber": "d58c79ab-bec2-45b3-86c8-4f330b2cc9e0"
+    },
+    {
+      "Name": "APIs REST com NestJS: buscas, validação, serialização e detalhes arquiteturais",
+      "Url": "https://cursos.alura.com.br/certificate/d0224580-75d1-451c-9178-1035958c5e67",
+      "Authority": "Alura",
+      "StartedOn": "Jun 2023",
+      "FinishedOn": "",
+      "LicenseNumber": "d0224580-75d1-451c-9178-1035958c5e67"
+    }
+  ],
+  "skills": [
+    "Dart",
+    "NestJS",
+    "Jest",
+    "PostgreSQL",
+    "docker",
+    "Jira",
+    "ASP.NET Core",
+    ".NET Framework",
+    "TypeScript ",
+    "Node.js",
+    "C#",
+    "Microsoft SQL Server",
+    "ASP.NET MVC",
+    "MySQL",
+    "Entity Framework",
+    "Xamarin",
+    ".NET Core"
+  ],
+  "phones": [
+    {
+      "code": "+55",
+      "number": "48 98865-1132"
+    }
+  ],
+  "educations": [
+    {
+      "SchoolName": "Fatec Rio Preto",
+      "StartDate": 2015,
+      "EndDate": 2018,
+      "Notes": "",
+      "DegreeName": "Análise e Desenvolvimento de Sistemas",
+      "Activities": ""
+    },
+    {
+      "SchoolName": "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP",
+      "StartDate": 2012,
+      "EndDate": 2014,
+      "Notes": "",
+      "DegreeName": "Técnico em Informatica",
+      "Activities": ""
+    }
+  ]
+}

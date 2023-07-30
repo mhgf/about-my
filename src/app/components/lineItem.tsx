@@ -2,18 +2,20 @@ type props = {
   startDate: string;
   endDate?: string;
   title: string;
-  description: string;
+  description?: string;
+  subTitle: string;
   link?: {
     url: string;
     text: string;
   };
 };
 
-export default function JobLI({
+export default function LineItem({
   startDate,
   endDate,
   title,
   description,
+  subTitle: company,
   link,
 }: props) {
   const hasLinK = () => {
@@ -63,6 +65,9 @@ export default function JobLI({
       <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
         {title}
       </h3>
+      <h2 className="text-sm font-semibold text-gray-900 dark:text-white">
+        {company}
+      </h2>
       <p className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
         {description}
       </p>
